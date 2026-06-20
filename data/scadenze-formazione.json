@@ -1,0 +1,22 @@
+{
+  "license": "CC0-1.0",
+  "source": "https://www.123consulenza.com",
+  "updated": "2026-06-20",
+  "fonte": "D.Lgs. 81/08 art. 37 e Accordo Stato-Regioni Rep. 78/CSR del 17/04/2025",
+  "disclaimer": "Durate indicative; la durata effettiva puo' variare per casi specifici. Verificare l'Accordo Stato-Regioni vigente.",
+  "ruoli": [
+    { "value": "lavoratore-basso", "label": "Lavoratore — rischio basso", "aggiornamentoAnni": 5, "formazioneInizialeOre": 8 },
+    { "value": "lavoratore-medio", "label": "Lavoratore — rischio medio", "aggiornamentoAnni": 5, "formazioneInizialeOre": 12 },
+    { "value": "lavoratore-alto", "label": "Lavoratore — rischio alto", "aggiornamentoAnni": 5, "formazioneInizialeOre": 16 },
+    { "value": "preposto", "label": "Preposto", "aggiornamentoAnni": 2, "formazioneInizialeOre": 12, "nota": "Cadenza biennale dal D.L. 146/2021" },
+    { "value": "dirigente", "label": "Dirigente", "aggiornamentoAnni": 5, "formazioneInizialeOre": 16 },
+    { "value": "rspp-dl", "label": "RSPP Datore di Lavoro", "aggiornamentoAnni": 5, "formazioneInizialeOre": null, "nota": "Ore variabili per livello di rischio (16/32/48)" },
+    { "value": "rls", "label": "RLS — Rappresentante dei Lavoratori per la Sicurezza", "aggiornamentoAnni": 1, "formazioneInizialeOre": 32, "nota": "Aggiornamento annuale 4 ore (<50 lavoratori) o 8 ore (>=50)" },
+    { "value": "antincendio-l1", "label": "Addetto antincendio Livello 1 (basso)", "aggiornamentoAnni": 5, "formazioneInizialeOre": 4, "aggiornamentoOre": 2 },
+    { "value": "antincendio-l2", "label": "Addetto antincendio Livello 2 (medio)", "aggiornamentoAnni": 5, "formazioneInizialeOre": 8, "aggiornamentoOre": 5 },
+    { "value": "antincendio-l3", "label": "Addetto antincendio Livello 3 (alto)", "aggiornamentoAnni": 5, "formazioneInizialeOre": 16, "aggiornamentoOre": 8 },
+    { "value": "primo-soccorso-a", "label": "Addetto primo soccorso — Gruppo A", "aggiornamentoAnni": 3, "formazioneInizialeOre": 16, "aggiornamentoOre": 6 },
+    { "value": "primo-soccorso-b", "label": "Addetto primo soccorso — Gruppo B", "aggiornamentoAnni": 3, "formazioneInizialeOre": 12, "aggiornamentoOre": 4 },
+    { "value": "primo-soccorso-c", "label": "Addetto primo soccorso — Gruppo C", "aggiornamentoAnni": 3, "formazioneInizialeOre": 12, "aggiornamentoOre": 4 }
+  ]
+}
